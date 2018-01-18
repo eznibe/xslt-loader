@@ -1,0 +1,19 @@
+{  
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "xslt-loader for webpack",
+  "devDependencies": {
+    "xslt": "*"
+  },
+  "keywords": [
+    "test"
+  ],
+  "license": "ISC",
+  "main": "xslt-loader.js",
+  "name": "xslt-loader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
